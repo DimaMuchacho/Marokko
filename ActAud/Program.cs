@@ -8,7 +8,7 @@ namespace ActAud
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application. Проверка ветки состояния
+        /// The main entry point for the application. На этот раз все готово
         /// </summary>
         [STAThread]
         static void Main()
